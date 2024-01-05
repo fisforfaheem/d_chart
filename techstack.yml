@@ -1,7 +1,8 @@
 repo_name: fisforfaheem/d_chart
 report_id: 9056c7ff7bf5cd16e40b30023cacec02
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T07:46:47+00:00'
+timestamp: '2024-01-05T08:58:37+00:00'
 requested_by: indratrisnar
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/fisforfaheem/d_chart
   detection_source: Repo Metadata
 - name: Flutter
   description: Cross-platform mobile framework from Google
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/fisforfaheem/d_chart/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: indratrisnar
   last_updated_on: 2022-12-01 08:02:12.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fisforfaheem/d_chart
   detection_source: Repo Metadata
 - name: flutter
   description: Visit flutter.io to get started
@@ -47,7 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/d_chart/blob/master/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: indratrisnar
   last_updated_on: 2022-12-01 08:02:12.000000000 Z
